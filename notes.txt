@@ -1,0 +1,8 @@
+1. Install express to app folder(npm install express)
+2. Require express module in our server.js file
+3. Set route to our index page
+4. Build angular controller and test angular app
+5. Create dummy data in controller
+6. Create and Run db - mongod in terminal - mongo in bin - show dbs - use 'dbname' to create and switch
+db.contactlist.find() - to see db 
+7. Install mongojs
